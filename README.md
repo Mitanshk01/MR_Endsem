@@ -1,6 +1,6 @@
 # MR_Endsem
 
-## Indexing (Vineeth)
+## Indexing
 
 1. Camera calibration
     1. DLT in 2D homographies
@@ -39,3 +39,5 @@
         1. Intro - `04_BA/00_Cyrill_BA.pdf`
         2. Numerics - `04_BA/02_Cyrill_BA2.pdf`
     2. `04_BA/01_notion_page_BA.pdf`
+4. EKF
+    1. We're so done
