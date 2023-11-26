@@ -18,3 +18,6 @@
     4. Homogenous coordinates
         1. `01_camera_calib/01_stachniss_homogenous_projective_geometry.pptx.pdf`
             - important 3D transformations: pg 62
+    5. PnP
+        1. P3P formulation - `01_camera_calib/02_Camera_Calibration_P3P_Stachniss.pdf`
+        2. EPnP - `01_camera_calib/paper_EPnP.pdf`
