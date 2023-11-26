@@ -1,10 +1,16 @@
 # MR_Endsem
 
-## Some important pages in MVG:
+## Indexing
 
-1. Estimation problems in 2D Projective Transformations: pg 106
-2. DLT - pg 107
-    - Basic Algorithm - pg 109
-    - Normalized DLT - pg 127
-3. Least-squares solution of homogeneous equations - pg 593
-4.  
+1. DLT in 2D homographies
+    1. Estimation problems in 2D Projective Transformations: MVG pg 106
+    2. DLT - MVG pg 107
+        - Basic Algorithm - pg 109
+        - Normalized DLT - pg 127
+    3. Least-squares solution of homogeneous equations - pg 593
+2. DLT for camera calibration
+    1. DLT in a Nutshell - `01_camera_calib/00_stachniss_DLT-calibration.pptx.pdf` pg 47
+    2. GP notes - `01_camera_calib/GP notes/00_stachniss_DLT_GP.pdf`
+3. Zhang's method
+    1. See `01_camera_calib/paper_Zhang.pdf`
+    2. Decomposition of H into calibration and extrinsics - `01_camera_calib/00_stachniss_DLT-calibration.pptx.pdf` - pg 66
