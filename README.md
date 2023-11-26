@@ -22,4 +22,13 @@
         1. P3P formulation - `01_camera_calib/02_Camera_Calibration_P3P_Stachniss.pdf`
         2. EPnP - `01_camera_calib/paper_EPnP.pdf`
 2. MVG
-    1. 
+    1. Epipolar Geometry Theory - MVG pg 257
+        1. Properties of F - pg 263
+        2. Extraction of camera from F (_not important_) - Pg 271
+        3. Essential matrix - Pg 275
+    2. Computation of F - Pg 297
+        1. Normalized 8 point algorithm - Pg 300
+        2. Special cases of F computation - Pg 311
+    3. Summaries available in `02_mvg/00_feiFeiLi_Epipolar.pdf`
+    4. Rectification
+        1. `02_mvg/00_feiFeiLi_Epipolar.pdf` - Pg 45
