@@ -1,6 +1,6 @@
 # MR_Endsem
 
-## Indexing
+## Indexing (Vineeth)
 
 1. Camera calibration
     1. DLT in 2D homographies
@@ -21,3 +21,5 @@
     5. PnP
         1. P3P formulation - `01_camera_calib/02_Camera_Calibration_P3P_Stachniss.pdf`
         2. EPnP - `01_camera_calib/paper_EPnP.pdf`
+2. MVG
+    1. 
