@@ -31,4 +31,11 @@
         2. Special cases of F computation - Pg 311
     3. Summaries available in `02_mvg/00_feiFeiLi_Epipolar.pdf`
     4. Rectification
-        1. `02_mvg/00_feiFeiLi_Epipolar.pdf` - Pg 45
+        1. (_Not that great_) `02_mvg/00_feiFeiLi_Epipolar.pdf` - Pg 45
+        2. `03_stereo_rect/00_Stereo_RectificationCMU.pdf`
+        3. (_But, doesn't really explain anything important) Im age Rectification - MVG Pg 321
+3. Bundle Adjustment
+    1. Cyrill
+        1. Intro - `04_BA/00_Cyrill_BA.pdf`
+        2. Numerics - `04_BA/02_Cyrill_BA2.pdf`
+    2. `04_BA/01_notion_page_BA.pdf`
