@@ -40,4 +40,6 @@
         2. Numerics - `04_BA/02_Cyrill_BA2.pdf`
     2. `04_BA/01_notion_page_BA.pdf`
 4. EKF
-    1. We're so done
+    1. `/home/vineeth/Desktop/MR_Endsem/05_EKF/01_CH7_from_this_ProbabilisticRoboticsBook.pdf`: Ch 7 - Pg 169
+        1. Markov Localization - Pg 174
+        2. EKF Localization - Pg 178
